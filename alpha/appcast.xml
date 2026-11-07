@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LUUZI</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 07 Nov 2026 20:25:49 -0300</pubDate>
+            <sparkle:version>194</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LUUZI 0.1.0.194</h2>
+<p>Primeira versão alpha do LUUZI com atualizações automáticas.</p>
+<p>A partir desta versão, o LUUZI avisa sozinho quando houver uma versão nova.</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI-0.1.0.194.zip" length="6778442" type="application/octet-stream" sparkle:edSignature="XkyIJ070lnPrYqTN8LVHrDqTnyJL3TH42jjvbrNF98ejIXO8cBzhl1IM+2IElbS6W4U91mRBmZrNguboi04UCg=="/>
+        </item>
+    </channel>
+</rss>

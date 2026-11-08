@@ -4,6 +4,25 @@
         <title>LUUZI</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sun, 08 Nov 2026 17:59:38 -0300</pubDate>
+            <sparkle:version>219</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LUUZI 0.1.0.219</h2>
+<p>Mouses conectados com o LUUZI aberto aparecem na hora, sem reiniciar o app.</p>
+<p>Botões: cada botão pode valer só num mouse ou ter uma ação diferente em cada mouse (coluna Mouse).</p>
+<p>Cursor: ao mexer outro mouse, o LUUZI escolhe sozinho o ajuste dele.</p>
+<p>Atualizações: escolha entre Manual, Avisar ou Instalar automaticamente.</p>
+<p>Ajustes reorganizados, telas mais limpas e traduções revisadas.</p>
+<p>Abrir ao iniciar sessão volta a funcionar ao desligar.</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI-0.1.0.219.zip" length="6938291" type="application/octet-stream" sparkle:edSignature="MJoWRvVy4bFQTPgDxL7Y6XzsufWiuRcBiPmEFTC0YKu1LYSfzoo/8aW26pvueZlpRPO75BiHDNjRmukdqWzWBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI219-194.delta" sparkle:deltaFrom="194" length="1125070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="e02Urpp0k7xaoC7fhKSqxcrlqcGkEpEKtJSVP5xL4axGim6FkzPvMmHgzu69loLTuE6ZhPpHcW+Zubqd1xAZCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sat, 07 Nov 2026 20:25:49 -0300</pubDate>
             <sparkle:version>194</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>

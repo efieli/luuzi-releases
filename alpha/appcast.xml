@@ -4,6 +4,27 @@
         <title>LUUZI</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Mon, 09 Nov 2026 20:22:00 -0300</pubDate>
+            <sparkle:version>223</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LUUZI 0.1.0.223</h2>
+<p>Skins: o controle "Tom no fundo" agora muda a cor do fundo da janela na hora, enquanto você arrasta.</p>
+<p>Gestos: o efeito de saída do desenho (Apagar, Esmaecer, Afinar) passou a funcionar também com o LUUZI em segundo plano.</p>
+<p>Gestos: no efeito Apagar, a bolinha do começo some junto com o traço.</p>
+<p>Gestos: o gesto que abre o Mission Control agora sai com o efeito de saída normal do traço.</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI-0.1.0.223.zip" length="7023411" type="application/octet-stream" sparkle:edSignature="Rhx/GEjJWVwjfTOzOnLBI6PbNhCPlp4nSMaqioVhMCuoI8yBTsvsizPzQQh+4x1UYHH78UE0CYnK4rKgIhEcAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI223-222.delta" sparkle:deltaFrom="222" length="584954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pYtwBod29ftoDcPRbCsRuupRLlcy5TWWERTthYk9+WjiAxQOykpmGt4+ucbDryn0Y3SC/iMtlfHDE6d7uNHGDQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI223-221.delta" sparkle:deltaFrom="221" length="814582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mz419j7HqF8ZbsEtxk8edGjESWZKJqoAd/PV4w4KXR7/vvpLYCkq+eJEzVVeXf+V3mdZcSfwVV5Ke++Hz3mpAQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI223-220.delta" sparkle:deltaFrom="220" length="816898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RfQbSnAtgAFZm8JdGWESeo/jEQS4xlhsiMFTi6GykGk4ehiPR+V4/nKM96di00ggXMEypU03C1q1pZ1XodEMDQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI223-219.delta" sparkle:deltaFrom="219" length="831254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0DYwA+bsOdYgM4ob3xHig5sLWmZIb1LgPPndaGZc0PqWmGe0cu6VW46yOfXEvRGjBV1bMVDuklw7znhBCcn2DA=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI223-194.delta" sparkle:deltaFrom="194" length="1258066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oW/+5S8OyBehtGFV8kyxnmKdeEcbdb+h5sBnzeVWdKd+k6WKK2j/XrxKUxJ4isRh03xuu2dwlr++cIvWKkM6BA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Mon, 09 Nov 2026 19:33:02 -0300</pubDate>
             <sparkle:version>222</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>

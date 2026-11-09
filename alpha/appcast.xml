@@ -4,6 +4,23 @@
         <title>LUUZI</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Mon, 09 Nov 2026 16:49:56 -0300</pubDate>
+            <sparkle:version>221</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LUUZI 0.1.0.221</h2>
+<p>Atualização pelo Sparkle: correção para o instalador abrir corretamente ao atualizar.</p>
+<p>Versão de teste do canal alpha: segurança reforçada mantida (apps abertos por botões validados, importação limitada e registros privados).</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI-0.1.0.221.zip" length="6950644" type="application/octet-stream" sparkle:edSignature="hjZeW+eyMGJinw/j6HMmgYxk16QUM/5O6Qjua1f+Nq13s9enbm43vJ6rv1gRNeF871Q/XKNi72AHAbC4eSoiCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI221-220.delta" sparkle:deltaFrom="220" length="3934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jN1vaoKYirbpwJD2VxCGnddx9fDzm0Alz2XtEJTYlX36OBAHSSEEPs0rYbHH14ll3cjyKwUmz1hfHh9q46LQAQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI221-219.delta" sparkle:deltaFrom="219" length="631018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tBbZ9VN7xknG8p6MSORKiLHpn1nvYXy5NHNStTxEyF9EHehJImHDtLyOYygxn4txL/ObGCyyRFezmoH4rHV+AA=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI221-194.delta" sparkle:deltaFrom="194" length="1148870" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LeLAkBUOf7s1XwzZz131zV83YPugqCXuGl+bpiT3Hwja/iml/Eby6ya0LpGLwErQZ6tMpy/A6sSropII/pEkBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Mon, 09 Nov 2026 16:37:54 -0300</pubDate>
             <sparkle:version>220</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>

@@ -4,6 +4,24 @@
         <title>LUUZI</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Mon, 09 Nov 2026 16:37:54 -0300</pubDate>
+            <sparkle:version>220</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LUUZI 0.1.0.220</h2>
+<p>Segurança reforçada: os botões do mouse só abrem aplicativos de verdade. Se um arquivo de ajustes importado apontar para um script ou programa que não é um app, o LUUZI bloqueia e avisa.</p>
+<p>Importar ajustes ficou mais seguro: o LUUZI só aceita arquivos de ajustes comuns, de até 5 MB.</p>
+<p>Os registros de erros do LUUZI (pasta Logs/LUUZI) agora ficam visíveis só para você.</p>
+<p>O LUUZI deixa explícito que não aceita conexões sem HTTPS.</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI-0.1.0.220.zip" length="6950644" type="application/octet-stream" sparkle:edSignature="OHGdqay90vIt6p4p6nm+Zbe64Jqrgj2dU1aYhV/scVtQyk5mHiHLqTH8S9IcNmpKDCDZ/2WHY9mxTZuspCaYAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI220-219.delta" sparkle:deltaFrom="219" length="631714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mEq2rz04ewh5gsijSZU0T7j0hHgIYUV1iziDFkHP6yZkl9LwXCZpQ6QvzhE79hzYUv8J9xWIfc6zQgicO8reBA=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI220-194.delta" sparkle:deltaFrom="194" length="1148526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="q95KMiKKajyGxm8HNEY2dLft6EnMjVwy5AGFdID1/JteBs3Ad/1M6Ws3n+T4Afxsz9c5DTQRF5ducmhM08ccDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sun, 08 Nov 2026 17:59:38 -0300</pubDate>
             <sparkle:version>219</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>

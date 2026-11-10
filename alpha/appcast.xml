@@ -4,6 +4,25 @@
         <title>LUUZI</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Mon, 09 Nov 2026 21:00:45 -0300</pubDate>
+            <sparkle:version>224</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LUUZI 0.1.0.224</h2>
+<p>Atualizações: o LUUZI agora procura versão nova em segundo plano toda vez que abre. Com "Instalar automaticamente" ligado, ele já se atualiza sozinho.</p>
+<p>Atualizações: a procura automática passou a acontecer a cada 6 horas (antes era a cada 24 horas).</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI-0.1.0.224.zip" length="7024028" type="application/octet-stream" sparkle:edSignature="Fs2HUpgYjcbpdLlufD+7k2htDM+PItOt+bxzu59Dtc1RY/MKI149rOuHR7Q8nDLwk+NohZZyCZzlfKlG2UMuBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI224-223.delta" sparkle:deltaFrom="223" length="357778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+s59Yl7bqj/eYpJxr10KADH0Nv6zC/qrTVLxx4LwdhX01Z/Yw4KEAMQCXtiDSR9rM6tEtlAZPvewVVG/fkolDQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI224-222.delta" sparkle:deltaFrom="222" length="610310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kaz3iZN+mhd3IpzqpfeK1O6Y1RHQG24iZapHz7Wu1lvzK29GxFvdQYmJG//+OmIqnPjX2ja0aMvApZkua5qyBw=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI224-221.delta" sparkle:deltaFrom="221" length="812326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SYSl4SvF084h1d7WVqF6wwkCliJ2vNXBDoGBR2dB6isYrbDI1P/SxUlxJokRezUp4rCuLPn4Wgzzpa2mU5CjCQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI224-220.delta" sparkle:deltaFrom="220" length="812390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="t4YnSEaXTmR635RD84IQhobo4hr855U7w+QWT7DYb6OubNXwGspsB5Wl+/y5AgkUb//F20tcyqwR/iwwgBWzBg=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI224-219.delta" sparkle:deltaFrom="219" length="838762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5P2g8TPrHi0RaZ6ONGt/S4p8bvnRU8FwYgU/SCDwladhucT81HhH1M494MPNngYrcOyVjjmKC/4na4IDGsT9Cg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Mon, 09 Nov 2026 20:22:00 -0300</pubDate>
             <sparkle:version>223</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>

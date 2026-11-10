@@ -4,6 +4,25 @@
         <title>LUUZI</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 10 Nov 2026 09:49:40 -0300</pubDate>
+            <sparkle:version>225</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LUUZI 0.1.0.225</h2>
+<p>Registro de erros melhor: agora o LUUZI anota quando o Mac foi ligado, um sinal de vida a cada minuto e quando o Mac dorme ou acorda.</p>
+<p>Se o LUUZI não fechou direito, o registro diz se foi o Mac que reiniciou (queda do sistema) ou o próprio LUUZI, e aponta o relatório de panic do macOS.</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI-0.1.0.225.zip" length="7035999" type="application/octet-stream" sparkle:edSignature="U9OtqqwMMuMQX98LNL8gzw5hYkAEauMZt7mIpQCE/ZoR4zLIKUoDReIJACY6Y50+u0fK95wiSAdc2/lnucT0AA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI225-224.delta" sparkle:deltaFrom="224" length="638694" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AsAo5Nro2tKqRv5BSJ4qqgCeHUqPWp1JJvm34zPk0FtQoXhXqPyaohL9JBVPV4nKetUUR3QQ8A9qAgDLZFyaCg=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI225-223.delta" sparkle:deltaFrom="223" length="649546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5ILK1UuMDaUf2cHKsAmfGIV3rrM9WjkxfjKAjKyNDtK7iybziImjXirJ93DVzsQ3Q6QZPrdec0YATpj6SjV5Bg=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI225-222.delta" sparkle:deltaFrom="222" length="700162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pTK/dMt0wzbxLO0iYRRjGPr+cjxdQStJuClUW9gSqtZlbUUiu/zl/iIBIXfsx9ENo8dlroHicoLeXpUp9ZYnAQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI225-221.delta" sparkle:deltaFrom="221" length="852690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vhd9OFmCnz4FsV+UPj5ccuWbgvQUJfcDVkeeAAzZ1L11yE1qriDewn6cEo2jTUpUcSw14N/VBISebvd7+/B1DA=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI225-220.delta" sparkle:deltaFrom="220" length="852130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vXsVeCM7PFUqbSzhxYFjIiTDfqCO/fKUe/Z9nwqUG8rDHH2fvA8vsbhiTrBD4zpm2ZBTsf19pn2hh69i+qdwDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Mon, 09 Nov 2026 21:00:45 -0300</pubDate>
             <sparkle:version>224</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>

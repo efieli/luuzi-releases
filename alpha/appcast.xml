@@ -4,6 +4,26 @@
         <title>LUUZI</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Wed, 11 Nov 2026 13:33:07 -0300</pubDate>
+            <sparkle:version>227</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LUUZI 0.1.0.227</h2>
+<p>Ignorar lugares: no menu da barra, cada app agora mostra os lugares ignorados nele (janela, painel ou região), com botões para ver (traz o app para a frente e marca o trecho na tela) e editar (escolher outra janela ou redesenhar a região).</p>
+<p>Diagnóstico de travamentos: o LUUZI registra o último sinal de vida, a hora em que o Mac ligou, suspensão e despertar, e explica se a sessão anterior terminou por queda do sistema ou do próprio app.</p>
+<p>Relatórios de erro: a página de administração ganhou o botão "Copiar tudo".</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI-0.1.0.227.zip" length="7083416" type="application/octet-stream" sparkle:edSignature="yciJcCfwqbqzq26oo+DR9cPw1d1B9CkpMrYbCr4qc9PlA+qaTb9Ac+SQ3jV7QtWHnzFz8b3G4wOq3UWgIHv3CA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI227-225.delta" sparkle:deltaFrom="225" length="760910" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hb0v/IZaxCBuOSIRRj2JCYTpGCd60uvjMFmvJOTV/niPNexVPBYeKk1iLvXITKgeDwur4Vv+bWips7awJDwRBA=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI227-224.delta" sparkle:deltaFrom="224" length="804814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jSf9dvrSwysSoFQsak5pwteoutEMgK6rWsASsy7P6u5MohifJsUHNE8RQYORpRt08ReDuYgwn+eqAi9Xhj9GBg=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI227-223.delta" sparkle:deltaFrom="223" length="803618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Pg7J7pVyXA3iSpeqxbxD6+V/6cBq0kzC98dnOm0XXeLAFlBnMc89yTpwwdaJrSJsXMTH5yaYlziy9+LT+x6ICg=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI227-222.delta" sparkle:deltaFrom="222" length="828610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IPC315Q4grmDijQIaaxwcHy/ChWMjCMIwjF6x6hQ49UcwBjl7TsHwMHxvdUai+4y/r+h3J+FQWKuoNohCp/mDQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI227-221.delta" sparkle:deltaFrom="221" length="951698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wJ9USErmFab0Fy4GesStVjnqhvufEs3IptWLZ/ggZR0XxdB8QSxmc6GwYqdHn1ilZEgYKuPkXyG6kFnLmPYuDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 10 Nov 2026 09:49:40 -0300</pubDate>
             <sparkle:version>225</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>

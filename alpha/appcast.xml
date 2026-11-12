@@ -4,6 +4,24 @@
         <title>LUUZI</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Thu, 12 Nov 2026 16:19:19 -0300</pubDate>
+            <sparkle:version>228</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LUUZI 0.1.0.228</h2>
+<p>Ícones novos: Arrastar agora é uma mãozinha e Gestos mostra o dedo subindo, mais fáceis de reconhecer no menu.</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI-0.1.0.228.zip" length="7083631" type="application/octet-stream" sparkle:edSignature="0tEh6EPGCXVtp3XoAce9dnQ3rm1sCOK5fzUOz9t4LPgu+qTN5dO0C6560vafhtyqJOS0xW+S7km2baRqD4nKAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI228-227.delta" sparkle:deltaFrom="227" length="242706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KfAWYQ02GPA8pRpbbmpsdVBobHbWe6Iaf+21IX7sfMiYaiTFu2sU9ZPd371TcN7cwWH2zh0Ptjv7TlXz+6mvBQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI228-225.delta" sparkle:deltaFrom="225" length="766546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="l12S3NYWrrHAdf8SEkWCQ3r5etfoGm6esdoPSuDAxmc6ac0KJ0mY8Q+THq47fUkGki/GBaR3pKr7aAW/EwxJBQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI228-224.delta" sparkle:deltaFrom="224" length="807818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UeQ49NT0W8EFxLAZX06/qv4puip5PRDXEpy+iHgrgBhgR/rBcuwfkzKyFpClYRGatdtH+ZjZrMg8IYSAG+iHAA=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI228-223.delta" sparkle:deltaFrom="223" length="808114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xl+gImxEkMgMTJOKPQA6qZMMucfG0CZV4PqYfQroLHdBbL2to3peXLtIPbMTaiQQcaBGEmy5lJdjKJUlKlFGCw=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI228-222.delta" sparkle:deltaFrom="222" length="824306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6tVfdyvqQrZk6Rm2t4s9KqNOL9uN8CAldypg9TvXjmtQ0iLIJ8mY3v5z2EAf4HK9EsKlGzinGGvQnDxltc7WAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Wed, 11 Nov 2026 13:33:07 -0300</pubDate>
             <sparkle:version>227</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>

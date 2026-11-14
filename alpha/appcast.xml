@@ -4,6 +4,26 @@
         <title>LUUZI</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sat, 14 Nov 2026 14:18:12 -0300</pubDate>
+            <sparkle:version>231</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>LUUZI 0.1.0.231</h2>
+<p>Cursor: nova opção "Detectar o mouse pelo movimento": o mouse que você mexer vira o escolhido e os ajustes valem para ele</p>
+<p>Cursor: a escolha manual do mouse não muda mais sozinha</p>
+<p>Menu da barra: ao escolher um app, aparecem fichas com o que já está personalizado para ele (laranja = ajuste próprio, riscada = desligada só nesse app)</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI-0.1.0.231.zip" length="7114727" type="application/octet-stream" sparkle:edSignature="ssKNrgfedYIgn/E13o7FPoqtHyi2PPeYQnikp1L+lSAcSvhhOhxDezDoTyqbg/UUeTcLz5Ibmaf6qEXt1C/ODQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI231-228.delta" sparkle:deltaFrom="228" length="763306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XCrempOEHU7vy9KMEi1VtbVNNLw4q281dFktbZiE/vAn8mZjJOCRHn89Qi8iRyWM0c1avp9vtnWlTBTxn3foDQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI231-227.delta" sparkle:deltaFrom="227" length="761158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wl5U+sJM+SFl1RjNxwnN66unzZHEFaEUHxfhOHAc52sXT18a/PqICCAnjw8CHBWIfrHAfI1rRGSQK6I5VqbLDw=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI231-225.delta" sparkle:deltaFrom="225" length="878146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5cykqlVhCxFZlOYgwMOG9KYHSH2Q/kD6hY9L05sbLbDFTBSjV9i34e6CbWyIYEtyxdZJzF7OPDVXMlFy1i0lCw=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI231-224.delta" sparkle:deltaFrom="224" length="908246" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YZu+KQyeyAFBDN1/GH20vpvzWlB1+h8FZ8ca8rZMcWq/F6QHHMeqkGi+1Ln3ZcKPBjSD93mBPoSuvI4i24v8AQ=="/>
+                <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI231-223.delta" sparkle:deltaFrom="223" length="908390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gFIfcYuPBwXOSgqRmxRQh2XsGSOSbFRE9CWZmFE03SS52RTrIV7sKFq3gqXBKdocETaJEZnm3/Swm7rrp33JDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Thu, 12 Nov 2026 16:19:19 -0300</pubDate>
             <sparkle:version>228</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -173,18 +193,6 @@
             <sparkle:deltas>
                 <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI219-194.delta" sparkle:deltaFrom="194" length="1125070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="e02Urpp0k7xaoC7fhKSqxcrlqcGkEpEKtJSVP5xL4axGim6FkzPvMmHgzu69loLTuE6ZhPpHcW+Zubqd1xAZCw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Sat, 07 Nov 2026 20:25:49 -0300</pubDate>
-            <sparkle:version>194</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>LUUZI 0.1.0.194</h2>
-<p>Primeira versão alpha do LUUZI com atualizações automáticas.</p>
-<p>A partir desta versão, o LUUZI avisa sozinho quando houver uma versão nova.</p>
-]]></description>
-            <enclosure url="https://efieli.github.io/luuzi-releases/alpha/LUUZI-0.1.0.194.zip" length="6778442" type="application/octet-stream" sparkle:edSignature="XkyIJ070lnPrYqTN8LVHrDqTnyJL3TH42jjvbrNF98ejIXO8cBzhl1IM+2IElbS6W4U91mRBmZrNguboi04UCg=="/>
         </item>
     </channel>
 </rss>
